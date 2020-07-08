@@ -81,7 +81,7 @@ body{
     background: linear-gradient(
         rgba(41, 40, 40, 0.45), 
         rgba(240, 191, 30, 0.45)
-      ),url(/img/trial.jpeg);
+      ),url(./img/trial.jpeg);
     height:70vh;
     background-repeat: no-repeat;
     background-size: cover;  
